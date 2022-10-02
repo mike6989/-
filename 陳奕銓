@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+ <center><a href="https://github.com/">回首頁</a><center>
+<table border=2>
+  <tr>
+    <th colspan="3">作業1:HTML表格</th>
+  </tr>
+  <tr>
+    <td rowspan="3"><img src="https://thumbor.4gamers.com.tw/0-6eSK_QNb3woo93gKTpcIoCbks=/800x0/filters:extract_cover():no_upscale():quality(80)/https%3A%2F%2Fimg.4gamers.com.tw%2Fckfinder%2Fimages%2FKaty%2Fcomic%20animation-03%2F220708-camp-01.jpg%3FversionId%3DUQ2R97VlXyRW3cXxvYU5r1XfmBgNc1sI" width="100" height="100">
+     <td>班級</td>
+    <td>資工二甲</td>
+  </tr>
+  <tr>
+    <td>姓名</td>
+    <td>陳奕銓</td>
+  </tr>
+   <td>學號</td>
+    <td>1111032039</td>
+</table >
+
+</body>
+</html>
